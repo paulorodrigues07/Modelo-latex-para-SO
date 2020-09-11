@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.10)  10 SEP 2020 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.11)  11 SEP 2020 04:15
 entering extended mode
 **c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
 (c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
@@ -738,8 +738,6 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks33
 \AP@partial=\box54
 \AP@footins=\box55
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\backref.sty"
-Package: backref 2020/01/14 v1.40 Bibliographical back referencing
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip267
@@ -747,10 +745,6 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count346
 )
-\@input{extras/conf_citacoes.aux}
-\openout2 = `extras/conf_citacoes.aux'.
-
-(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\extras/conf_citacoes.tex)
 \@input{pretextual/ContraCapa.aux}
 \openout2 = `pretextual/ContraCapa.aux'.
 
@@ -842,7 +836,6 @@ Package microtype Info: No adjustment of character kerning.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-Package backref Info: ** backref set up for natbib ** on input line 85.
 \openout2 = `pretextual/capa.aux'.
 
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.tex
@@ -909,8 +902,6 @@ Package pdftex.def Info: imagens/eng.jpg  used on input line 14.
 
 
 
-
-
 {C:/Users/paulo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/unipac.jpg> <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/eng.jpg>])pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -969,61 +960,74 @@ File: imagens/figura1.png Graphic file (type png)
 <use imagens/figura1.png>
 Package pdftex.def Info: imagens/figura1.png  used on input line 14.
 (pdftex.def)             Requested size: 248.72484pt x 141.22511pt.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--23
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.150 \include{capitulos/introducao}
-                                     [1
+l.23 
+      [1
 
 
 
- <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/figura1.png>] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.brf)
-\tf@brf=\write5
-\openout5 = `main.brf'.
-
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9.
+ <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/figura1.png>]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 34.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) 
-AED: lastpage setting LastPage
+)
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+l.41 
+      [2])pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.150 \include{capitulos/introducao}
+                                     [3] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl) 
+AED: lastpage setting LastPage
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.189 \end{document}
-                     [2
+                     [4
 
 
 ]
-\tf@lof=\write6
-\openout6 = `main.lof'.
+\tf@lof=\write5
+\openout5 = `main.lof'.
 
-\tf@lot=\write7
-\openout7 = `main.lot'.
+\tf@lot=\write6
+\openout6 = `main.lot'.
 
-\tf@toc=\write8
-\openout8 = `main.toc'.
+\tf@toc=\write7
+\openout7 = `main.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: B61DDCF8B3BCD0CC088689D210D46E83;545.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 189.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
- 16222 strings out of 481199
- 260935 string characters out of 2913473
- 744098 words of memory out of 3000000
- 31365 multiletter control sequences out of 15000+200000
- 587503 words of font info for 94 fonts, out of 3000000 for 9000
+ 16097 strings out of 481199
+ 258294 string characters out of 2913473
+ 747098 words of memory out of 3000000
+ 31199 multiletter control sequences out of 15000+200000
+ 594226 words of font info for 117 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,12n,49p,620b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (11 pages, 477309 bytes).
+ 51i,12n,49p,791b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (13 pages, 511664 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 19040 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 21088 words of extra memory for PDF output out of 24883 (max. 10000000)
 

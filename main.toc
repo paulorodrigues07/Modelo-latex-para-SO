@@ -9,4 +9,4 @@
 \contentsline {chapter}{Introdução}{1}{chapter*.12}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{2}{chapter*.15}%
+\contentsline {chapter}{Refer\^encias}{4}{chapter*.15}%
