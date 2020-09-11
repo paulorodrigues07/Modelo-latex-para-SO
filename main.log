@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.10)  10 SEP 2020 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.10)  10 SEP 2020 22:48
 entering extended mode
-**"c:/Users/paulo/OneDrive/Área de Trabalho/trabalho so/main.tex"
-("c:/Users/paulo/OneDrive/Área de Trabalho/trabalho so/main.tex"
+**c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
+(c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-09-03> ("C:\Program Files\MiKTeX 2.9\tex/latex/abntex2\abntex2.cls"
 Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
@@ -750,15 +750,15 @@ LaTeX Info: Redefining \cite on input line 694.
 \@input{extras/conf_citacoes.aux}
 \openout2 = `extras/conf_citacoes.aux'.
 
-("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\extras/conf_citacoes.tex")
+(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\extras/conf_citacoes.tex)
 \@input{pretextual/ContraCapa.aux}
 \openout2 = `pretextual/ContraCapa.aux'.
 
-("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/ContraCapa.tex")
+(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/ContraCapa.tex)
 \@input{extras/conf_pdf.aux}
 \openout2 = `extras/conf_pdf.aux'.
 
-("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\extras/conf_pdf.tex"
+(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\extras/conf_pdf.tex
 Package color Info: Redefining color blue on input line 5.
 Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 )
@@ -767,7 +767,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 
 
 Writing index file main.idx 
-("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.aux" ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/capa.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/agradecimentos.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/epigrafe.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/resumos.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/siglas.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\capitulos/introducao.aux"))
+(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
@@ -845,7 +845,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 Package backref Info: ** backref set up for natbib ** on input line 85.
 \openout2 = `pretextual/capa.aux'.
 
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/capa.tex"
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.tex
 <imagens/unipac.jpg, id=3, 1153.30875pt x 1256.695pt>
 File: imagens/unipac.jpg Graphic file (type jpg)
 <use imagens/unipac.jpg>
@@ -911,7 +911,7 @@ Package pdftex.def Info: imagens/eng.jpg  used on input line 14.
 
 
 
-{C:/Users/paulo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/paulo/OneDrive/Área de Trabalho/trabalho so/imagens/unipac.jpg> <c:/Users/paulo/OneDrive/Área de Trabalho/trabalho so/imagens/eng.jpg>])pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{C:/Users/paulo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/unipac.jpg> <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/eng.jpg>])pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.100 
@@ -923,20 +923,20 @@ l.100
 ]
 \openout2 = `pretextual/agradecimentos.aux'.
 
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/agradecimentos.tex" [2
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.tex [2
 
 
 ])
 \openout2 = `pretextual/epigrafe.aux'.
 
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/epigrafe.tex" [3
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.tex [3
 
 
 
 ])
 \openout2 = `pretextual/resumos.aux'.
 
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/resumos.tex"
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
@@ -945,25 +945,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
 
 
-]) ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.lof") [5
+]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof) [5
 
 
-] ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.lot") [6
+] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lot) [6
 
 ]
 \openout2 = `pretextual/siglas.aux'.
 
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/siglas.tex" [7
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.tex [7
 
 
 
-]) ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.toc") [8
+]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.toc) [8
 
 
 ]
 \openout2 = `capitulos/introducao.aux'.
 
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\capitulos/introducao.tex"
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.tex
 <imagens/figura1.png, id=85, 621.82312pt x 353.06906pt>
 File: imagens/figura1.png Graphic file (type png)
 <use imagens/figura1.png>
@@ -977,7 +977,7 @@ l.150 \include{capitulos/introducao}
 
 
 
- <c:/Users/paulo/OneDrive/Área de Trabalho/trabalho so/imagens/figura1.png>] ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.bbl" ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.brf")
+ <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/figura1.png>] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.brf)
 \tf@brf=\write5
 \openout5 = `main.brf'.
 
@@ -1005,7 +1005,7 @@ l.189 \end{document}
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
- ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.aux" ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/capa.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/agradecimentos.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/epigrafe.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/resumos.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\pretextual/siglas.aux") ("c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\capitulos/introducao.aux"))
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `main.brf' has not changed.
@@ -1014,14 +1014,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
  16218 strings out of 481199
- 260318 string characters out of 2913473
+ 260893 string characters out of 2913473
  744098 words of memory out of 3000000
  31365 multiletter control sequences out of 15000+200000
  587321 words of font info for 92 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,12n,49p,613b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,49p,620b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on "c:/Users\paulo\OneDrive\Área de Trabalho\trabalho so\main.pdf" (11 pages, 477349 bytes).
+Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (11 pages, 477350 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
