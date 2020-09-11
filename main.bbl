@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{LinuxFundationWIL}
+T.~L. Foundation, ``What is linux?,'' 2020.
+
+\bibitem{Morimoto2011}
+C.~E. Morimoto, {\em Servidores Linux: Guia prático}.
+\newblock 1ª Edição, 2011.
+
+\bibitem{Tanenbaum2016}
+A.~S. Tanenbaum and H.~Bos, {\em Sistemas operacionais modernos}.
+\newblock 4ª edição, 2016.
+
+\bibitem{Comer2012}
+D.~Comer, {\em Operating system design : the xinu approach, linksys version}.
+\newblock Boca Raton: CRC Press-Taylor and Francis, 2012.
+
+\end{thebibliography}

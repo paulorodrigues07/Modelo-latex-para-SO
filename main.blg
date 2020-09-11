@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: pretextual/capa.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: pretextual/agradecimentos.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: pretextual/epigrafe.aux
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+A level-1 auxiliary file: pretextual/resumos.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: pretextual/siglas.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: capitulos/introducao.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Database file #1: bibliografia.bib
+Warning--entry type for "LinuxFundationWIL" isn't style-file defined
+--line 27 of file bibliografia.bib
+Warning--can't use both author and editor fields in Morimoto2011
+Warning--can't use both author and editor fields in Tanenbaum2016
+You've used 4 entries,
+            1876 wiz_defined-function locations,
+            509 strings with 4055 characters,
+and the built_in function-call counts, 610 in all, are:
+= -- 53
+> -- 20
+< -- 0
++ -- 9
+- -- 5
+* -- 30
+:= -- 94
+add.period$ -- 7
+call.type$ -- 4
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 31
+empty$ -- 79
+format.name$ -- 5
+if$ -- 150
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 6
+newline$ -- 18
+num.names$ -- 4
+pop$ -- 23
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 8
+stack$ -- 0
+substring$ -- 0
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 4
+width$ -- 5
+write$ -- 36
+(There were 3 warnings)
