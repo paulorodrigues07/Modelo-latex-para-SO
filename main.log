@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.11)  11 SEP 2020 04:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.12)  21 SEP 2020 12:06
 entering extended mode
 **c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
 (c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
@@ -761,27 +761,27 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 
 
 Writing index file main.idx 
-(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux))
+(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/Secoes/Estruturabasica.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 85.
+Package hyperref Info: Link coloring ON on input line 86.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
@@ -793,15 +793,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 85.
-LaTeX Info: Redefining \ref on input line 85.
-LaTeX Info: Redefining \pageref on input line 85.
-LaTeX Info: Redefining \nameref on input line 85.
+LaTeX Info: Redefining \nameref on input line 86.
+LaTeX Info: Redefining \ref on input line 86.
+LaTeX Info: Redefining \pageref on input line 86.
+LaTeX Info: Redefining \nameref on input line 86.
 \myptabbox=\box57
 \myptabboxwidth=\skip269
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 85.
+(lastpage)             ! on input line 86.
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count348
@@ -822,14 +822,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 85.
+LaTeX Info: Redefining \microtypecontext on input line 86.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 85.
+LaTeX Info: Redefining \showhyphens on input line 86.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -902,10 +902,15 @@ Package pdftex.def Info: imagens/eng.jpg  used on input line 14.
 
 
 
-{C:/Users/paulo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/unipac.jpg> <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/eng.jpg>])pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{C:/Users/paulo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/unipac.jpg> <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/eng.jpg>])
+Underfull \hbox (badness 1888) in paragraph at lines 101--101
+\T1/lmr/bx/n/12 si-dente Antô-nio Car-los (FU-PAC) -
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100 
+l.101 
        [1
 
 
@@ -928,7 +933,7 @@ l.100
 \openout2 = `pretextual/resumos.aux'.
 
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
  []
 
@@ -955,7 +960,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--12
 \openout2 = `capitulos/introducao.aux'.
 
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.tex
-<imagens/figura1.png, id=85, 621.82312pt x 353.06906pt>
+<imagens/figura1.png, id=82, 621.82312pt x 353.06906pt>
 File: imagens/figura1.png Graphic file (type png)
 <use imagens/figura1.png>
 Package pdftex.def Info: imagens/figura1.png  used on input line 14.
@@ -989,14 +994,40 @@ l.41
       [2])pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.150 \include{capitulos/introducao}
-                                     [3] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl) 
-AED: lastpage setting LastPage
-pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+l.151 \include{capitulos/introducao}
+                                     [3]
+\openout2 = `capitulos/sistemaOperacional.aux'.
+
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.189 \end{document}
-                     [4
+l.153 \include{capitulos/sistemaOperacional}
+                                             [4
+
+
+
+]
+\openout2 = `capitulos/Secoes/Estruturabasica.aux'.
+
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/Secoes/Estruturabasica.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--155
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.155 \include{capitulos/Secoes/Estruturabasica}
+                                                 [5
+
+
+] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl) 
+AED: lastpage setting LastPage
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \end{document}
+                     [6
 
 
 ]
@@ -1009,25 +1040,25 @@ l.189 \end{document}
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
- (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 189.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/Secoes/Estruturabasica.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 194.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
  ) 
 Here is how much of TeX's memory you used:
- 16097 strings out of 481199
- 258294 string characters out of 2913473
+ 16140 strings out of 481199
+ 260156 string characters out of 2913473
  747098 words of memory out of 3000000
- 31199 multiletter control sequences out of 15000+200000
- 594226 words of font info for 117 fonts, out of 3000000 for 9000
+ 31213 multiletter control sequences out of 15000+200000
+ 597751 words of font info for 124 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,49p,791b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (13 pages, 511664 bytes).
+Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (15 pages, 522204 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 21088 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 21616 words of extra memory for PDF output out of 24883 (max. 10000000)
 

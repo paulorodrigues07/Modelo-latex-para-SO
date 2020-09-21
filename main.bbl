@@ -1,12 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{LinuxFundationWIL}
-T.~L. Foundation, ``What is linux?,'' 2020.
-
-\bibitem{Morimoto2011}
-C.~E. Morimoto, {\em Servidores Linux: Guia prático}.
-\newblock 1ª Edição, 2011.
-
 \bibitem{Tanenbaum2016}
 A.~S. Tanenbaum and H.~Bos, {\em Sistemas operacionais modernos}.
 \newblock 4ª edição, 2016.
@@ -29,5 +22,8 @@ M.~Magazine., ``The choice of a gnu generation an interview with linus
 L.~Torvalds and D.~Diamond, {\em Just for Fun: The Story of an Accidental
   Revolutionary}.
 \newblock HarperCollins, 2002.
+
+\bibitem{LinuxFundationWIL}
+T.~L. Foundation, ``What is linux?,'' 2020.
 
 \end{thebibliography}
