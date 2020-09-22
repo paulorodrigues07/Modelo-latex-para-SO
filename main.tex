@@ -123,9 +123,9 @@
 \cleardoublepage
 
 % Lista de tabelas
-\pdfbookmark[0]{\listtablename}{lot}
-\listoftables*
-\cleardoublepage
+% \pdfbookmark[0]{\listtablename}{lot}
+% \listoftables*
+% \cleardoublepage
 
 % Lista de abreviaturas e siglas
 \include{pretextual/siglas}
@@ -143,7 +143,7 @@
 % ----------------------------------------------------------
 \textual
 % Elementos textuais com numeração arábica
-\pagenumbering{arabic}
+\pagenumbering{arabic}%arabic
 % Reinicia a contagem do número de páginas
 \setcounter{page}{1}
 
@@ -152,7 +152,15 @@
 
 \include{capitulos/sistemaOperacional}
 
-\include{capitulos/Secoes/Estruturabasica}
+\include{capitulos/SecoesSO/Estruturabasica}
+
+\include{capitulos/SecoesSO/EstruturaSistemasOperacionais}
+
+\include{capitulos/SecoesSO/OZoológicoDosOSs}
+
+\include{capitulos/ProcessosThreads}
+
+\include{capitulos/GerenciamentoMemoria}
 
 % PARTE - Define a divisão do documento em partes (Não é obrigatório)
 %\part{Preparação da pesquisa}

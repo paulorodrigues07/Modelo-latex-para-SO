@@ -177,22 +177,6 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\extras\conf
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.idx
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\capa.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\capa.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\agradecimentos.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\agradecimentos.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\epigrafe.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\epigrafe.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\resumos.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\resumos.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.aux
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
@@ -279,15 +263,9 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri12.tfm
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\resumos.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\resumos.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\resumos.tex
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lot
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lot
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.tex
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.toc
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.toc
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.tex
@@ -304,14 +282,23 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.tex
-OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.tex
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.tex
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.tex
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss17.tfm
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.tex
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.tex
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.tex
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.tex
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof
-OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lot
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.toc
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\capa.aux
@@ -328,8 +315,16 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\i
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\Secoes\Estruturabasica.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
