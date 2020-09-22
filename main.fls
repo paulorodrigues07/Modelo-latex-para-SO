@@ -199,8 +199,6 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
@@ -328,6 +326,27 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\Pro
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\Processador2.png
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\memoria.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\memoria.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\lvlmemoria.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\lvlmemoria.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\lvlmemoria.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\lvlmemoria.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\lvlmemoria.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\cache.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\cache.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\cache.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\cache.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\cache.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\velocidaderam.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\velocidaderam.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\velocidaderam.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\velocidaderam.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\velocidaderam.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Discos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Discos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Dispositivos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Dispositivos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Barramentos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Barramentos.tex
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.tex
@@ -337,9 +356,6 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.tex
-OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.tex
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof
@@ -367,8 +383,6 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
