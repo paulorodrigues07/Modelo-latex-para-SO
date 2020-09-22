@@ -189,10 +189,10 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
@@ -305,9 +305,6 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ts1-lmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
-OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.tex
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.tex
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.tex
@@ -347,6 +344,9 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Dispositivos.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Barramentos.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Subsection\Barramentos.tex
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.tex
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.tex
@@ -373,10 +373,10 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual\siglas.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\introducao.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
-INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\Estruturabasica.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\sistemaOperacional.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\EstruturaSistemasOperacionais.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
