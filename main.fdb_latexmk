@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex main"] 1600784905 "main.aux" "main.bbl" "main" 1600784926
+["bibtex main"] 1600784905 "main.aux" "main.bbl" "main" 1600784978
   "C:/Program Files/MiKTeX 2.9/bibtex/bst/bibtex/ieeetr.bst" 1291864344 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "bibliografia.bib" 1599804353 1846 fa02d9ec33543eadbefef90046e52420 ""
   "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/capitulos/GerenciamentoMemoria.aux" 1600784924 2725 6d2b3fb1610a38ec0f90608ebd88c48e ""
@@ -15,14 +15,14 @@
   "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/pretextual/siglas.aux" 1600784924 2143 dbe6f3b1858ac05ec851ba0409e8ab0c ""
   "main.aux" 1600784924 4471 50c424db82646729d79edb2f5e748f96 "pdflatex"
   (generated)
-  "main.bbl"
   "main.blg"
-["makeindex main.idx"] 1600784899 "main.idx" "main.ind" "main" 1600784926
+  "main.bbl"
+["makeindex main.idx"] 1600784899 "main.idx" "main.ind" "main" 1600784978
   "main.idx" 1600784923 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ind"
   "main.ilg"
-["pdflatex"] 1600784922 "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex" "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.pdf" "main" 1600784926
+["pdflatex"] 1600784922 "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex" "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.pdf" "main" 1600784978
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc" 1254938640 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc" 1254938640 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -200,24 +200,24 @@
   "pretextual/siglas.aux" 1600784924 2143 dbe6f3b1858ac05ec851ba0409e8ab0c "pdflatex"
   "pretextual/siglas.tex" 1600784704 659 e26ae30872dfba9f7213de47444aa084 ""
   (generated)
-  "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.log"
-  "pretextual/ContraCapa.aux"
-  "main.pdf"
-  "extras/conf_pdf.aux"
-  "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.pdf"
   "pretextual/epigrafe.aux"
-  "pretextual/resumos.aux"
-  "capitulos/GerenciamentoMemoria.aux"
-  "main.toc"
-  "main.idx"
-  "capitulos/sistemaOperacional.aux"
-  "capitulos/SecoesSO/Estruturabasica.aux"
-  "pretextual/agradecimentos.aux"
-  "pretextual/siglas.aux"
-  "capitulos/ProcessosThreads.aux"
-  "capitulos/introducao.aux"
-  "main.log"
-  "pretextual/capa.aux"
   "capitulos/SecoesSO/EstruturaSistemasOperacionais.aux"
-  "main.lof"
+  "main.toc"
+  "pretextual/siglas.aux"
+  "main.log"
+  "pretextual/ContraCapa.aux"
+  "capitulos/introducao.aux"
+  "extras/conf_pdf.aux"
   "main.aux"
+  "main.lof"
+  "capitulos/GerenciamentoMemoria.aux"
+  "pretextual/resumos.aux"
+  "capitulos/ProcessosThreads.aux"
+  "pretextual/agradecimentos.aux"
+  "capitulos/SecoesSO/Estruturabasica.aux"
+  "main.idx"
+  "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.log"
+  "capitulos/sistemaOperacional.aux"
+  "c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.pdf"
+  "main.pdf"
+  "pretextual/capa.aux"
