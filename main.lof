@@ -4,5 +4,7 @@
 \contentsline {figure}{\numberline {3}{\ignorespaces Uma \emph {CPU} superescalar. \cite {Tanenbaum2016}\relax }}{5}{figure.caption.13}%
 \contentsline {figure}{\numberline {4}{\ignorespaces Uma hierarquia de memória típica. Os números são apenas aproximações. \cite {Tanenbaum2016}\relax }}{5}{figure.caption.14}%
 \contentsline {figure}{\numberline {5}{\ignorespaces As memorias cache em um processador moderno.\relax }}{6}{figure.caption.15}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Do processador a RAM.\relax }}{6}{figure.caption.16}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Visão de um disco rigido.\relax }}{7}{figure.caption.17}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Do processador a RAM.\relax }}{7}{figure.caption.16}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Visão de um disco rigido.\relax }}{8}{figure.caption.17}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Estados do processo. \cite {Tanenbaum2016}\relax }}{13}{figure.caption.18}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Comportamento de processos. \cite {Tanenbaum2016}\relax }}{17}{figure.caption.19}%

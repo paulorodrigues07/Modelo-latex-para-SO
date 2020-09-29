@@ -358,10 +358,24 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\P
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\processos.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\processos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\processso.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\processso.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\processso.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\processso.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\processso.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\subsection\criandoPro.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\subsection\criandoPro.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\subsection\terminandoPro.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\subsection\terminandoPro.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\treads.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\treads.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\escalonamento.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesTreads\escalonamento.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof
@@ -387,6 +401,7 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
@@ -405,3 +420,5 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb

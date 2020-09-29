@@ -13,16 +13,19 @@
 \contentsline {subsection}{\numberline {1.1.4}Dispositivos de E/S}{8}{subsection.1.1.4}%
 \contentsline {subsection}{\numberline {1.1.5}Barramentos}{8}{subsection.1.1.5}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Sistema Operacional}}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}O zoológico dos sistemas operacionais}{10}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Sistemas operacionais de computadores de uso pessoal}{10}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Sistemas operacionais de servidores}{10}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Sistemas operacionais embarcados}{10}{subsection.2.1.3}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Sistema Operacional}}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}O zoológico dos sistemas operacionais}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Sistemas operacionais de computadores de uso pessoal}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Sistemas operacionais de servidores}{11}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Sistemas operacionais embarcados}{11}{subsection.2.1.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Processos e threads}}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Processos}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Threads}{11}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Escalonamento}{11}{section.3.3}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Processos e threads}}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Processos}{12}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Criando processos}{13}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Término de processos}{14}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Threads}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Escalonamento}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Categorias de algoritimo de escalonamento}{17}{subsection.3.3.1}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Refer\^encias}{12}{chapter*.19}%
+\contentsline {chapter}{Refer\^encias}{19}{chapter*.21}%

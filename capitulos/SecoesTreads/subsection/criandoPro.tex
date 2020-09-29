@@ -1,0 +1,20 @@
+\subsection{Criando processos}
+
+Em suma os SO precisam de uma maneira de criar os processos. Podemos dizer de forma abstrata que o programa é como um livro de receita e que o processo é o ato de cozinhar em si onde se segue passo a passo da receita e que os ingredientes para o preparo são dos dados \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}.\\
+Em sistemas simples ou embarcados pode ser possível ter todos os processos que serão em algum momento necessários quando o sistema for ligado \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}.\\
+Mas para sistemas para fins gerais, no entanto, de alguma maneira é necessária para criar e terminar processos, na medida do necessário, durante a operação \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}.\\
+
+\begin{itemize}[label=$-$]
+	\item Quatro eventos principais fazem com que os processos sejam criados:
+    \begin{enumerate}
+        \item Inicialização do sistema.
+        \item Execução de uma chamada de sistema de criação de processo por um processo em execução.
+        \item Solicitação de um usuário para criar um novo processo.
+        \item Início de uma tarefa em lote. 
+    \end{enumerate}
+\end{itemize}
+
+Durante o carregamento inicial do SO diversos processos são criados alguns em primeiro plano e outros em segundo plano. Podemos dizer que todos os processos de primeiro plano são de interação com o usuário e que os processo de segundo plano são de domínio do próprio sistema \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.\\
+No linux server cada processo possui um número de PID (Process Identifier - em portugues Identificador de Processo)este é um número de identificação que o sistema dá a cada processo. Para cada novo processo, um novo número deve ser atribuído, ou seja, não se pode ter um único PID para dois ou mais processos ao mesmo tempo \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.\\
+Os sistemas baseados em Unix precisam que um processo já existente se duplique para que a cópia possa ser atribuída a uma tarefa nova. Quando isso ocorre, o processo "copiado" recebe o nome de "processo pai", enquanto que o novo é denominado "processo filho". É nesse ponto que o PPID (Parent Process Identifier - em portugues Identificador de processo pai ) passa a ser usado: o PPID de um processo nada mais é do que o PID de seu processo pai \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.\\
+No UNIX, há apenas uma chamada de sistema para criar um novo processo: fork. Essa chamada cria um clone exato do processo que a chamou. Após a fork, os dois processos, o pai e o filho, têm a mesma imagem de memória, as mesmas variáveis de ambiente e os mesmos arquivos abertos. E isso é tudo. Normalmente, o processo filho então executa execve ou uma chamada de sistema similar para mudar sua imagem de memória e executar um novo programa  \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.
