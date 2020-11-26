@@ -197,6 +197,12 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.aux
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
@@ -376,6 +382,45 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\esc
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\escalonamento1.png
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\BuddyHeap.jpg
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\BuddyHeap.jpg
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\BuddyHeap.jpg
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\BuddyHeap.jpg
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\BuddyHeap.jpg
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz2.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz2.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz2.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz2.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz2.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz3.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz3.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz3.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz3.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\DiretorioRaiz3.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\GestaoLivre.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\GestaoLivre.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\GestaoLivre.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\GestaoLivre.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\GestaoLivre.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\CotaDisco.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\CotaDisco.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\CotaDisco.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\CotaDisco.png
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\imagens\CotaDisco.png
+OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.tex
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.tex
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
 OUTPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.lof
@@ -401,7 +446,12 @@ INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\S
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SecoesSO\OZoológicoDosOSs.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
 INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\ProcessosThreads.aux
-INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\GerenciamentoMemoria.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\SistemasArquivos.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.aux
+INPUT c:\Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos\conclusao.aux
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
@@ -420,5 +470,3 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmss17.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb

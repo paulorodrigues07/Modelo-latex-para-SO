@@ -11,7 +11,7 @@ Para isso os computadores modernos são equipados com um SO esse dispositivo de 
 
 \begin{figure}[htpb]
     \centering
-   \includegraphics[scale=.4]{imagens/figura1.png}
+   \includegraphics[scale=.6]{imagens/figura1.png}
    \caption{Onde o sistema operacional se encaixa. \cite{Tanenbaum2016}}
    \label{fig:figura1}
 \end{figure}
@@ -20,9 +20,7 @@ Inicialmente a ideia que temos de um SO é a visão que temos dos ditos sistemas
 Um sistema operacional é projetado para ocultar as particularidades de \emph{hardware} (ditas "de baixo nível") e assim criar uma máquina abstrata que fornece às aplicações serviços compreensíveis ao usuário (ditas "de alto nível") \cite{Comer2012}.\\
 Assim o sistema trabalha em dois estados o modo núcleo e o modo usuário. Sendo que no modo núcleo (também chamado modo supervisor ou \emph{Kernel mode}). O sistema tem acesso completo aos recursos seja de ao \emph{hardware} ou \emph{software} e pode executar qualquer instrução que a máquina for capaz de executar \cite{Tanenbaum2016}, \cite{linfo2007}.\\
 Quando o sistema está em modo \emph{kernel} é considerado que as execuções são de uma fonte confiável e, portanto, pode executar quaisquer instruções e fazer referência a quaisquer endereços de memória (ou seja, locais na memória). O \emph{kernel} tem total controle sobre o sistema e trata todos os outros \emph{software}s como programas não confiáveis, assim todas as operações em modo usuário que necessitem alterar o sistema solicitam ao uso do \emph{kernel} por meio de uma chamada de sistema  para executar instruções privilegiadas, como criação de processos ou operações de entrada / saída \cite{Tanenbaum2016}, \cite{linfo2007}.\\
-
-Neste trabalho iremos trabalhar com o sistemas baseados em \emph{Linux} para servidores mas é importante entender um pouco da evolução desse sistema.
-
+\\Neste trabalho iremos trabalhar com o sistemas baseados em \emph{Linux} para servidores mas é importante entender um pouco da evolução desse sistema.\\
 Em meados da década de 60 uma iniciativa conjunta do \emph{MIT}, da \emph{Bell Labs}  e da \emph{General Electric} decidiram embarcar no desenvolvimento de um “computador utilitário”, isto é, uma máquina que daria suporte a algumas centenas de usuários simultâneos em pouco tempo nasce o projeto MULTICS (Serviço de Computação e Informação Multiplexada) \cite{Tanenbaum2016}.\\
 O MULTICS foi projetado para ser um sucesso com suporte para centenas de usuários em uma máquina apenas um pouco mais poderosa do que um PC baseado no 386 da \emph{Intel}. Mas transformá lo em um produto final de fácil comercialização não foi amarga realidade \cite{Tanenbaum2016}.\\
 A \emph{Bell Labs} abandonou o projeto, e a \emph{General Electric} abandonou completamente o negócio dos computadores. Entretanto, o \emph{MIT} persistiu e finalmente colocou o MULTICS para funcionar.E foi instalado por mais ou menos 80 empresas e universidades importantes mundo afora \cite{Tanenbaum2016}.\\

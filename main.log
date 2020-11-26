@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.12)  29 SEP 2020 20:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.12)  26 NOV 2020 16:42
 entering extended mode
 **c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
 (c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/main.tex
@@ -761,7 +761,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 
 
 Writing index file main.idx 
-(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Estruturabasica.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/OZoológicoDosOSs.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/ProcessosThreads.aux))
+(c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Estruturabasica.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/OZoológicoDosOSs.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/ProcessosThreads.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/GerenciamentoMemoria.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SistemasArquivos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/conclusao.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
@@ -951,45 +951,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--15
 
 
 
-]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.toc) [7
+] [7]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.toc) [8
 
 
 ]
 \openout2 = `capitulos/introducao.aux'.
 
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.tex
-<imagens/figura1.png, id=130, 621.82312pt x 353.06906pt>
+<imagens/figura1.png, id=173, 621.82312pt x 353.06906pt>
 File: imagens/figura1.png Graphic file (type png)
 <use imagens/figura1.png>
 Package pdftex.def Info: imagens/figura1.png  used on input line 14.
-(pdftex.def)             Requested size: 248.72484pt x 141.22511pt.
+(pdftex.def)             Requested size: 373.09674pt x 211.84306pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--23
+Underfull \hbox (badness 10000) in paragraph at lines 19--32
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 
-      [1
+l.32     \item
+               A liberdade de executar o programa, para qualquer propósito. [1
 
 
 
  <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/figura1.png>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 34.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 32.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
+)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34     \item A
+                 liberdade de redistribuir cópias para que você possa ajud... [2]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 
-      [2])pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+)pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.151 \include{capitulos/introducao}
@@ -997,7 +997,7 @@ l.151 \include{capitulos/introducao}
 \openout2 = `capitulos/SecoesSO/Estruturabasica.aux'.
 
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Estruturabasica.tex (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Processadores.tex
-<imagens/Processador1.png, id=173, 276.28218pt x 68.50594pt>
+<imagens/Processador1.png, id=216, 276.28218pt x 68.50594pt>
 File: imagens/Processador1.png Graphic file (type png)
 <use imagens/Processador1.png>
 Package pdftex.def Info: imagens/Processador1.png  used on input line 8.
@@ -1007,7 +1007,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--12
 
  []
 
-<imagens/Processador2.png, id=178, 373.395pt x 176.15813pt>
+<imagens/Processador2.png, id=221, 373.395pt x 176.15813pt>
 File: imagens/Processador2.png Graphic file (type png)
 <use imagens/Processador2.png>
 Package pdftex.def Info: imagens/Processador2.png  used on input line 16.
@@ -1025,75 +1025,50 @@ l.21 U
 
 
  <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/Processador1.png>]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/memoria.tex
-<imagens/lvlmemoria.png, id=188, 767.86874pt x 287.57437pt>
+<imagens/lvlmemoria.png, id=232, 767.86874pt x 287.57437pt>
 File: imagens/lvlmemoria.png Graphic file (type png)
 <use imagens/lvlmemoria.png>
 Package pdftex.def Info: imagens/lvlmemoria.png  used on input line 6.
 (pdftex.def)             Requested size: 383.93343pt x 143.78683pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--10
-
- []
-
-<imagens/cache.png, id=194, 438.8897pt x 411.78844pt>
+<imagens/cache.png, id=238, 438.8897pt x 411.78844pt>
 File: imagens/cache.png Graphic file (type png)
 <use imagens/cache.png>
 Package pdftex.def Info: imagens/cache.png  used on input line 14.
-(pdftex.def)             Requested size: 175.55276pt x 164.71245pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--18
-
- []
-
+(pdftex.def)             Requested size: 351.11223pt x 329.43118pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.18 
       [5 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/Processador2.png> <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/lvlmemoria.png>]
-<imagens/velocidaderam.png, id=203, 784.43062pt x 428.35031pt>
+<imagens/velocidaderam.png, id=246, 784.43062pt x 428.35031pt>
 File: imagens/velocidaderam.png Graphic file (type png)
 <use imagens/velocidaderam.png>
 Package pdftex.def Info: imagens/velocidaderam.png  used on input line 22.
-(pdftex.def)             Requested size: 196.10716pt x 107.08731pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--26
-
- []
-
-) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Discos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 27--1
-
- []
-
+(pdftex.def)             Requested size: 392.21434pt x 214.17462pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \subsection
-               {Discos rígidos} [6 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/cache.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-<imagens/disco.jpg, id=220, 513.92pt x 405.515pt>
+l.26 
+      [6 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/cache.png>]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Discos.tex
+<imagens/disco.jpg, id=263, 513.92pt x 405.515pt>
 File: imagens/disco.jpg Graphic file (type jpg)
 <use imagens/disco.jpg>
-Package pdftex.def Info: imagens/disco.jpg  used on input line 8.
-(pdftex.def)             Requested size: 128.47968pt x 101.3785pt.
-) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Dispositivos.tex) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Barramentos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
+Package pdftex.def Info: imagens/disco.jpg  used on input line 7.
+(pdftex.def)             Requested size: 256.95937pt x 202.75699pt.
+) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Dispositivos.texpdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \subsection
-               {Barramentos} [7 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/velocidaderam.png>]))
+               {Dispositivos de E/S} [7 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/velocidaderam.png>]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Subsection/Barramentos.texpdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \subsection
+               {Barramentos} [8 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/disco.jpg>]))
 Underfull \hbox (badness 10000) in paragraph at lines 3--153
 
  []
 
-[8 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/disco.jpg>] [9]
+[9]
 \openout2 = `capitulos/sistemaOperacional.aux'.
 
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.tex) [10
@@ -1124,58 +1099,244 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--159
 ]
 \openout2 = `capitulos/ProcessosThreads.aux'.
 
- (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/ProcessosThreads.tex (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/processos.tex [12
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/ProcessosThreads.tex (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/processos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+[12
 
 
 
 ]
-<imagens/processso.png, id=295, 513.92pt x 347.2975pt>
+<imagens/processso.png, id=336, 513.92pt x 347.2975pt>
 File: imagens/processso.png Graphic file (type png)
 <use imagens/processso.png>
-Package pdftex.def Info: imagens/processso.png  used on input line 23.
+Package pdftex.def Info: imagens/processso.png  used on input line 20.
 (pdftex.def)             Requested size: 205.56435pt x 138.91653pt.
  (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/subsection/criandoPro.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--8
+
+ []
+
+) [13 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/processso.png>] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/subsection/terminandoPro.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
-) [13 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/processso.png>] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/subsection/terminandoPro.tex)) [14] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/treads.tex [15]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/escalonamento.tex [16]
-<imagens/escalonamento1.png, id=383, 578.91281pt x 313.17pt>
+))
+Underfull \hbox (badness 10000) in paragraph at lines 17--6
+
+ []
+
+[14] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/treads.tex [15]) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesTreads/escalonamento.tex [16]
+<imagens/escalonamento1.png, id=407, 578.91281pt x 313.17pt>
 File: imagens/escalonamento1.png Graphic file (type png)
 <use imagens/escalonamento1.png>
 Package pdftex.def Info: imagens/escalonamento1.png  used on input line 7.
 (pdftex.def)             Requested size: 231.56102pt x 125.26576pt.
- [17 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/escalonamento1.png>])) [18] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl) 
-AED: lastpage setting LastPage
-[19
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+
+ []
+
+)) [17 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/escalonamento1.png>] [18]
+\openout2 = `capitulos/GerenciamentoMemoria.aux'.
+
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/GerenciamentoMemoria.tex
+<imagens/BuddyHeap.jpg, id=445, 246.6816pt x 185.0112pt>
+File: imagens/BuddyHeap.jpg Graphic file (type jpg)
+<use imagens/BuddyHeap.jpg>
+Package pdftex.def Info: imagens/BuddyHeap.jpg  used on input line 17.
+(pdftex.def)             Requested size: 320.68602pt x 240.51453pt.
+ [19
+
+
+
+] [20 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/BuddyHeap.jpg>]) [21] [22]
+\openout2 = `capitulos/SistemasArquivos.aux'.
+
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SistemasArquivos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+[23
+
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+<imagens/DiretorioRaiz.png, id=507, 275.52937pt x 125.71968pt>
+File: imagens/DiretorioRaiz.png Graphic file (type png)
+<use imagens/DiretorioRaiz.png>
+Package pdftex.def Info: imagens/DiretorioRaiz.png  used on input line 24.
+(pdftex.def)             Requested size: 275.52869pt x 125.71936pt.
+[24]
+<imagens/DiretorioRaiz2.png, id=517, 635.37375pt x 377.91188pt>
+File: imagens/DiretorioRaiz2.png Graphic file (type png)
+<use imagens/DiretorioRaiz2.png>
+Package pdftex.def Info: imagens/DiretorioRaiz2.png  used on input line 36.
+(pdftex.def)             Requested size: 444.75859pt x 264.5365pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--68
+
+ []
+
+[25 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/DiretorioRaiz.png> <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/DiretorioRaiz2.png>] [26]
+<imagens/DiretorioRaiz3.png, id=535, 734.745pt x 567.62062pt>
+File: imagens/DiretorioRaiz3.png Graphic file (type png)
+<use imagens/DiretorioRaiz3.png>
+Package pdftex.def Info: imagens/DiretorioRaiz3.png  used on input line 71.
+(pdftex.def)             Requested size: 404.111pt x 312.19229pt.
+ [27 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/DiretorioRaiz3.png>]
+<imagens/GestaoLivre.png, id=549, 651.18282pt x 383.93437pt>
+File: imagens/GestaoLivre.png Graphic file (type png)
+<use imagens/GestaoLivre.png>
+Package pdftex.def Info: imagens/GestaoLivre.png  used on input line 89.
+(pdftex.def)             Requested size: 520.94696pt x 307.1479pt.
+
+Overfull \hbox (65.94696pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+[28 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/GestaoLivre.png>]
+<imagens/CotaDisco.png, id=562, 539.01375pt x 368.1253pt>
+File: imagens/CotaDisco.png Graphic file (type png)
+<use imagens/CotaDisco.png>
+Package pdftex.def Info: imagens/CotaDisco.png  used on input line 102.
+(pdftex.def)             Requested size: 323.41074pt x 220.87688pt.
+) [29 <c:/Users/paulo/OneDrive/Documentos/GitHub/Modelo-latex-para-SO/imagens/CotaDisco.png>]
+\openout2 = `capitulos/conclusao.aux'.
+
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/conclusao.tex) [30
+
+
+
+] (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.bbl
+Underfull \hbox (badness 1292) in paragraph at lines 75--78
+[]\T1/lmr/m/n/12 (+20) E. Ale-crim. (2005) Pro-ces-sos no li-nux. [On-line]. Avai-la-ble:
+ []
+
+[31
+
+
+]) 
+AED: lastpage setting LastPage
+[32]
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
- (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Estruturabasica.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/OZoológicoDosOSs.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/ProcessosThreads.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 202.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
+ (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.aux (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/capa.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/agradecimentos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/epigrafe.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/resumos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\pretextual/siglas.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/introducao.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/Estruturabasica.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/sistemaOperacional.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SecoesSO/OZoológicoDosOSs.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/ProcessosThreads.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/GerenciamentoMemoria.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/SistemasArquivos.aux) (c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\capitulos/conclusao.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 203.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 203.
  ) 
 Here is how much of TeX's memory you used:
- 16401 strings out of 481199
- 268177 string characters out of 2913473
- 749098 words of memory out of 3000000
- 31342 multiletter control sequences out of 15000+200000
- 599010 words of font info for 137 fonts, out of 3000000 for 9000
+ 16582 strings out of 481199
+ 272775 string characters out of 2913473
+ 751098 words of memory out of 3000000
+ 31430 multiletter control sequences out of 15000+200000
+ 601074 words of font info for 153 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,13n,49p,1286b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (27 pages, 837651 bytes).
+ 51i,13n,49p,1525b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on c:/Users\paulo\OneDrive\Documentos\GitHub\Modelo-latex-para-SO\main.pdf (41 pages, 1223603 bytes).
 PDF statistics:
- 544 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 21776 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 768 PDF objects out of 1000 (max. 8388607)
+ 126 named destinations out of 1000 (max. 500000)
+ 21878 words of extra memory for PDF output out of 24883 (max. 10000000)
 

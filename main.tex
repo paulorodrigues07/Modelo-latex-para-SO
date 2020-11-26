@@ -28,7 +28,7 @@
 \usepackage{color}				% Controle das cores
 \usepackage{graphicx,graphicx}	% Inclusão de gráficos
 \usepackage{epsfig,subfig}		% Inclusão de figuras
-\captionsetup[figure]{labelfont={bf},name={Fig.},labelsep=period}
+\captionsetup[figure]{labelfont={bf},name={Fig.},labelsep=period} %Altera o nome da figura para texto predefinido
 \usepackage{microtype} 			% Melhorias de justificação
 % ---------------------
 		
@@ -160,7 +160,9 @@
 
 \include{capitulos/ProcessosThreads}
 
-%\include{capitulos/GerenciamentoMemoria}
+\include{capitulos/GerenciamentoMemoria}
+
+\include{capitulos/SistemasArquivos}
 
 % PARTE - Define a divisão do documento em partes (Não é obrigatório)
 %\part{Preparação da pesquisa}
@@ -175,7 +177,7 @@
 % PARTE
 %\part{Parte Final}
 %\include{capitulos/resultados}
-%\include{capitulos/conclusao}
+\include{capitulos/conclusao}
 
 % ----------------------------------------------------------
 % ELEMENTOS PÓS-TEXTUAIS (Referências, Glossário, Apêndices)
@@ -183,9 +185,8 @@
 \postextual
 
 % Referências bibliográficas
-%\bibliographystyle{ieeetr}
 \bibliography{bibliografia}
-\bibliographystyle{ieeetr}
+\bibliographystyle{IEEEtran}
 % Glossário (Consulte o manual)
 %\glossary
 

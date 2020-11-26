@@ -8,3 +8,9 @@
 \contentsline {figure}{\numberline {7}{\ignorespaces Visão de um disco rigido.\relax }}{8}{figure.caption.17}%
 \contentsline {figure}{\numberline {8}{\ignorespaces Estados do processo. \cite {Tanenbaum2016}\relax }}{13}{figure.caption.18}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Comportamento de processos. \cite {Tanenbaum2016}\relax }}{17}{figure.caption.19}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Divisão da memória usando \emph {BuddyHeap}.\cite {arleen2018}\relax }}{20}{figure.caption.20}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Um sistema de diretório em nível único contendo quatro arquivos. \cite {Tanenbaum2016}\relax }}{25}{figure.caption.21}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Um sistema hierárquico de diretórios. \cite {Tanenbaum2016}\relax }}{25}{figure.caption.22}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Sistema de arquivos contendo um arquivo compartilhado. \cite {Tanenbaum2016}\relax }}{27}{figure.caption.23}%
+\contentsline {figure}{\numberline {14}{\ignorespaces (a) Armazenamento da lista de blocos livres em uma lista encadeada. (b) Um mapa de bits. \cite {Tanenbaum2016}\relax }}{28}{figure.caption.24}%
+\contentsline {figure}{\numberline {15}{\ignorespaces As cotas são relacionadas aos usuários e monitoradas em uma tabela de cotas. \cite {Tanenbaum2016}\relax }}{29}{figure.caption.25}%

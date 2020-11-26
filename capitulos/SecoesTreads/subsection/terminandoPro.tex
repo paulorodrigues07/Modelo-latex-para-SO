@@ -1,22 +1,21 @@
 \subsection{Término de processos}
 
-Após criado o processo ele começa a ser executado e realiza qualquer que seja o seu trabalho, e como pode se imaginar pouco depois ele tende a ser finalizado.
-
-\begin{itemize}[label=$-$]
-	\item O novo processo terminará, normalmente devido a uma das condições a seguir:
+Após criado o processo ele começa a ser executado e realiza qualquer que seja o seu trabalho, e como pode se imaginar pouco depois ele tende a ser finalizado.\\
+\\O novo processo terminará, normalmente devido a uma das condições a seguir:
     \begin{enumerate}
+        
         \item Saída normal (voluntária)
         \item Erro fatal (involuntário). 
         \item Saída por erro (voluntária). 
         \item Morto por outro processo (involuntário). 
     \end{enumerate}
-\end{itemize}
 
-A maioria dos processos ele termina por ter chegado ao seu final, ou seja, quando um compilador termina de traduzir o programa dado a ele, o compilador executa uma chamada para dizer ao sistema operacional que ele terminou. A segunda é um erro fatal por exemplo a execução de um arquivo que nao existe no sistema. A terceira possibilidade é quando existe um erro no programa executado por algum tipo de dado inexistente ou incorreto \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}
-A quarta razão é quando o processo sofre influência externa por exemplo por um comando que finalize esse processo. Esse motivo em especial existe uma grande variação de comandos linux para executar esse tipo de recurso em especial o comando kill \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}
 
-O comando kill envia o sinal especificado para o especificado processos ou grupos de processos.
-Se nenhum sinal for especificado, o sinal termino é enviado. O padrão ação para este sinal é encerrar o processo. Este sinal deve ser usado de preferência ao sinal KILL, uma vez que um     processo pode instalar um manipulador para o sinal termino a fim de executar etapas de limpeza antes de encerrar de maneira ordenada. Se um o processo não termina depois que um sinal termino foi enviado, então o sinal KILL pode ser usado; esteja ciente de que o último sinal não pode   ser capturado e, portanto, não dá ao processo de destino a oportunidade de execute qualquer limpeza antes de encerrar \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}
-A maioria dos shells modernos tem um comando kill embutido , com um uso semelhante ao do comando descrito aqui. As opções --all , --pid e --queue e a possibilidade de especificar processos por comando nome, são extensões locais \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}
-Caso prefira, você também pode matar de uma vez só todos os comandos selecionado ao nome de um programa. Para isso, basta usar o comando killall seguido do nome do software em questão, como killall vim \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}
-Porém, o killall exige uma certa rigidez ao informar o nome do processo. Caso você não tenha certeza do nome completo, pode tentar o pkill, que faz diversas associações com a palavra-chave digitada \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}
+A maioria dos processos ele termina por ter chegado ao seu final, ou seja, quando um compilador termina de traduzir o programa dado a ele, o compilador executa uma chamada para dizer ao sistema operacional que ele terminou. A segunda é um erro fatal por exemplo a execução de um arquivo que não existe no sistema. A terceira possibilidade é quando existe um erro no programa executado por algum tipo de dado inexistente ou incorreto.\\
+A quarta razão é quando o processo sofre influência externa por exemplo por um comando que finalize esse processo. Esse motivo em especial existe uma grande variação de comandos \emph{linux} para executar esse tipo de recurso em especial o comando \emph{kill} \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.
+
+O comando \emph{kill} envia o sinal especificado para o especificado processos ou grupos de processos.
+Se nenhum sinal for especificado, o sinal termino é enviado. O padrão ação para este sinal é encerrar o processo. Este sinal deve ser usado de preferência ao sinal \emph{kill}, uma vez que um processo pode instalar um manipulador para o sinal termino a fim de executar etapas de limpeza antes de encerrar de maneira ordenada. Se um o processo não termina depois que um sinal termino foi enviado, então o sinal \emph{kill} pode ser usado; esteja ciente de que o último sinal não pode ser capturado e, portanto, não dá ao processo de destino a oportunidade de execute qualquer limpeza antes de encerrar \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.\\
+A maioria dos \emph{shells} modernos tem um comando \emph{kill} embutido , com um uso semelhante ao do comando descrito aqui. As opções \emph{--all , --pid e --queue} e a possibilidade de especificar processos por comando nome, são extensões locais.\\
+Caso prefira, você também pode matar de uma vez só todos os comandos selecionado ao nome de um programa. Para isso, basta usar o comando \emph{killall} seguido do nome do \emph{software} em questão, como \emph{killall vim}.\\
+Porém, o \emph{killall} exige uma certa rigidez ao informar o nome do processo. Caso você não tenha certeza do nome completo, pode tentar o \emph{pkill}, que faz diversas associações com a palavra-chave digitada \cite{Tanenbaum2016}, \cite{info2020}, \cite{Morimoto2011}, \cite{Man2020}.\\

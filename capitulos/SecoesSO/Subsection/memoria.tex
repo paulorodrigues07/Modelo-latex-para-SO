@@ -6,27 +6,27 @@ Com a função de armazenar a informação antes dela seguir para o processador 
    \includegraphics[scale=0.5]{imagens/lvlmemoria.png}
    \caption{Uma hierarquia de memória típica. Os números são apenas aproximações. \cite{Tanenbaum2016}}
    \label{fig:lvlmemoria}
-\end{figure}\\
+\end{figure}
 
 Na camada superior temos os registradores que são feitos do mesmo material do processador e possuem velocidade similar a deles, posteriormente temos o Cache que é principalmente controlada pelo hardware e pode se separar em até  três níveis cada nível  mais lento e maior que o anterior. O cache é erroneamente confundido com o buffer do processador mas basicamente ele tem por função servir como um espaço para informação de rápido acesso por exemplo  o cache L1 é dividido em memória de instrução e memória para dados. Com isso, o processador vai direto à memória de instrução, se estiver buscando uma instrução, ou vai direto à memória de dados, se estiver buscando um dado o cache L2 possui uma capacidade de armazenamento maior e é um pouco mais lento que o L1 ele serve para armazenar as informações antes delas irem para o cache L1 e assim sucessivamente o cache L3 diferente dos anteriores normalmente se apresenta fora do núcleo do processador e é compartilhado pelos núcleos como podemos ver na figura \ref{fig:cache}  \cite{Tanenbaum2016}, \cite{Comer2012}.\\
 \begin{figure}[htpb]
     \centering
-   \includegraphics[scale=0.4]{imagens/cache.png}
+   \includegraphics[scale=0.8]{imagens/cache.png}
    \caption{As memorias cache em um processador moderno.}
    \label{fig:cache}
-\end{figure}\\
+\end{figure}
 
 Logo em seguida vem a memória RAM (Random Access Memory — em portugues memória de acesso aleatório)Todas as requisições da CPU que não podem ser atendidas pela cache vão para a memória principal. Essa memória é responsável por realizar a leitura dos conteúdos quando requeridos, ou seja, de forma não-sequencial e guardar a informação de forma rápida para que seja lida cache assim como manter informações da cache \cite{Tanenbaum2016}, \cite{Comer2012}.\\
 \begin{figure}[htpb]
     \centering
-   \includegraphics[scale=0.25]{imagens/velocidaderam.png}
+   \includegraphics[scale=0.5]{imagens/velocidaderam.png}
    \caption{Do processador a RAM.}
    \label{fig:velocidade}
-\end{figure}\\
+\end{figure}
 
 A ROM (Read Only Memory — em portugues memória somente de leitura) é programada na fábrica e não pode ser modificada depois. Ela é rápida e barata. Em alguns computadores, o carregador (bootstrap loader) usado para inicializar o computador está contido na ROM \cite{Tanenbaum2016}, \cite{Comer2012}.\\
 A EEPROM (Electrically Erasable PROM — em portugues ROM eletricamente apagável) e a memória flash também são não voláteis, mas, diferentemente da ROM, podem ser apagadas e reescritas. No entanto, escrevê-las leva muito mais tempo do que escrever em RAM, então elas são usadas da mesma maneira que a ROM, apenas com a característica adicional de que é possível agora corrigir erros nos programas que elas armazenam mediante sua regravação \cite{Tanenbaum2016}, \cite{Comer2012}.\\
 A memória flash é um tipo particular de EEPROM que vem se tornando popular e  bastante comum e sendo utilizada fortemente em equipamentos portáteis. Utilizada em dispositivos como câmeras  e reprodutores de música substitui o disco rígido por manter as informações mesmo quando não está conectado diretamente a energia. Podemos dizer que a memoria flash esta entre a memora RAM e o discos rigidos no quesito velocidade \cite{Tanenbaum2016}, \cite{Comer2012}.\\
 A CMOS (Complementary Metal Oxide Semiconductor - em portugues 
 Semicondutor de óxido de metal complementar
-) é uma memória volátil e muito utilizada para armazenar a data e hora em sistemas, ela normalmente é alimentada por uma pequena bateria e seu consumo é tão baixo que a bateria que  é colocada de fábrica pode durar anos. Ela armazena informações básicas do sistema como data e hora ou por exemplo qual disco deve ser iniciado primeiro para iniciar o sistema operacional \cite{Tanenbaum2016}, \cite{Comer2012}.\\
+) é uma memória volátil e muito utilizada para armazenar a data e hora em sistemas, ela normalmente é alimentada por uma pequena bateria e seu consumo é tão baixo que a bateria que  é colocada de fábrica pode durar anos. Ela armazena informações básicas do sistema como data e hora ou por exemplo qual disco deve ser iniciado primeiro para iniciar o sistema operacional \cite{Tanenbaum2016}, \cite{Comer2012}.

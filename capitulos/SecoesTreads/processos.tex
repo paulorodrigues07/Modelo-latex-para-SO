@@ -1,13 +1,11 @@
 
 \section{Processos}\label{sec:Processos}
 
-Os computadores modernos frequentemente realizam várias tarefas ao mesmo tempo, as vezes isso é tão imperceptível que nem pensamos nisso durante a utilização de um computador, quando nao temos vários softwares abertos raramente pensamos que o sistema operacional abriu vários software de apoio ao usuário como drivers e software de GUI entre outros \cite{Tanenbaum2016}.\\
-Todos os softwares executáveis no computador, às vezes incluindo o sistema operacional, são organizados em uma série de processos sequenciais, ou, simplesmente, processos. um processo é uma instância do software em execução.  durante a execução de processos temos a impressão que todos estão sendo executados simultaneamente mas esse é uma ideia errônea a cpu trabalha de forma linear processando processo a processo distintamente. o que pode acontecer é que durante o tempo de carregamento de uma informação vinda do HD que pode levar menos de 1 milisegundo para o processador esse tempo é uma eternidade e durante esse tempo de carregamento da informação ele consegue executar diversas informações \cite{Tanenbaum2016}.\\
-Na verdade é como se como se cada processo possui  uma cpu virtual própria  pois a CPU real troca a todo momento de processo em processo, mas, para compreender o sistema, é muito mais fácil pensar a respeito de uma coleção de processos sendo executados em (pseudo) paralelo do que tentar acompanhar como a CPU troca de um programa para o outro \cite{Tanenbaum2016}.\\
-Todos os processos devem ter suas informações salvas, cada processo pode ter diversos arquivos abertos e esse arquivos possuem ponteiros referindo ao processo, sempre que o processo retorna a execução o sistema chama o read para ler as posições salvas. quando o dados não estão em espaço de endereçamento eles são salvos na tabela de processos \cite{Tanenbaum2016}.
-
-\begin{itemize}[label=$-$]
-	\item Um sistema operacional possui três tipos de processo:
+Os computadores modernos frequentemente realizam várias tarefas ao mesmo tempo, as vezes isso é tão imperceptível que nem pensamos nisso durante a utilização de um computador, quando nao temos vários \emph{softwares} abertos raramente pensamos que o sistema operacional abriu vários \emph{software} de apoio ao usuário como drivers e \emph{software} de \emph{GUI} entre outros \cite{Tanenbaum2016}.\\
+Todos os \emph{softwares} executáveis no computador, às vezes incluindo o sistema operacional, são organizados em uma série de processos sequenciais, ou, simplesmente, processos. um processo é uma instância do \emph{software} em execução.  durante a execução de processos temos a impressão que todos estão sendo executados simultaneamente mas esse é uma ideia errônea a cpu trabalha de forma linear processando processo a processo distintamente. o que pode acontecer é que durante o tempo de carregamento de uma informação vinda do \emph{HD} que pode levar menos de 1 milisegundo para o processador esse tempo é uma eternidade e durante esse tempo de carregamento da informação ele consegue executar diversas informações \cite{Tanenbaum2016}.\\
+Na verdade é como se como se cada processo possui  uma \emph{CPU} virtual própria  pois a \emph{CPU} real troca a todo momento de processo em processo, mas, para compreender o sistema, é muito mais fácil pensar a respeito de uma coleção de processos sendo executados em (pseudo) paralelo do que tentar acompanhar como a \emph{CPU} troca de um programa para o outro \cite{Tanenbaum2016}.\\
+Todos os processos devem ter suas informações salvas, cada processo pode ter diversos arquivos abertos e esse arquivos possuem ponteiros referindo ao processo, sempre que o processo retorna a execução o sistema chama o \emph{read} para ler as posições salvas. quando o dados não estão em espaço de endereçamento eles são salvos na tabela de processos \cite{Tanenbaum2016}.\\
+\\Um sistema operacional possui três tipos de processo:
     \begin{enumerate}
         \item Execução – Um processo que realmente está sendo utilizado naquele
         instante.
@@ -16,7 +14,6 @@ Todos os processos devem ter suas informações salvas, cada processo pode ter d
         \item • Bloqueado – Impossibilitado de executar enquanto evento externo
         esperado não acontecer
     \end{enumerate}
-\end{itemize}
 
 \begin{figure}[htpb]
     \centering
